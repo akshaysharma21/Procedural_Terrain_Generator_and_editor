@@ -8,9 +8,12 @@ See COMP 4490 project report for algorithm details.
 ### Procedural Terrain Generation:
 -----------------------------------------
 
+#### 2D
 ![2D](ss1.png)
 
 ![2D](ss2.png)
+
+#### 3D
 ![3D](ss3.png)
 
 ------------------------------------------
